@@ -7,8 +7,8 @@ Please visit my [LinkedIn](https://www.linkedin.com/in/nicholas-gaul-457515a/) p
 Quick Links:
 
 - [Portfolio Table of Contents](#portfolio-table-of-contents)
-- [Tableau Portfolio](https://public.tableau.com/app/profile/nicholas.gaul/vizzes)
-- [RPubs Portfolio](https://rpubs.com/AIDataDr)
+- [Tableau Portfolio](https://public.tableau.com/app/profile/nicholas.gaul/vizzes) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/vizzes)
+- [RPubs Portfolio](https://rpubs.com/AIDataDr) [![View in RPubs](https://img.shields.io/badge/View%20in-RPubs-e69500?logo=rpubs&logoColor=white)](https://rpubs.com/AIDataDr)
 
 This [AIDataDr GitHub Page](https://github.com/AIDataDr) is my portfolio that has all my work that I can share. I also have a [Tableau Portfolio](https://public.tableau.com/app/profile/nicholas.gaul/vizzes) where you can view dashboards and data visualizations I have created. I also have an [RPubs Portfolio](https://rpubs.com/AIDataDr) as well. Everything in my RPubs portfolio is also in my GitHub portfolio, though the details of my R based projects may be better viewed on my [RPubs Portfolio](https://rpubs.com/AIDataDr). 
 
@@ -111,16 +111,16 @@ Projects:
 
 - Data Analysis & Exploratory Data Analysis
 	- [Random Forest Model Predicting Employees Leaving Company](https://github.com/AIDataDr/Random-Forest-Model-Predicting-Employees-Leaving-Company)
-	- [Rain on Easter Sunday](https://github.com/AIDataDr/Rain-on-Easter-Sunday)
+	- [Rain on Easter Sunday](https://github.com/AIDataDr/Rain-on-Easter-Sunday) [![View in RPubs](https://img.shields.io/badge/View%20in-RPubs-e69500?logo=rpubs&logoColor=white)](https://rpubs.com/AIDataDr/rain_on_easter_sunday)
 - Dashboards
-	- Tableau Dashboards & Vizzes
-		- Automatidata Project for New York City Taxi & Limousine Commission (TLC)
-		- Impact of Holidays on Seoul Bike Rentals in 2018
-		- Seoul Average Bike Rentals per Hour on Weekdays in 2018
-		- Lightning Strikes Dashboard
-		- Lightning Strikes U.S. Story
-		- Number of Lightning Strikes by Location
-		- Number of Lightning Strikes
+	- [Tableau Dashboards & Vizzes](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/vizzes)
+		- [Automatidata Project for New York City Taxi & Limousine Commission (TLC)](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes/tree/main/Automatidata_Project_for_NYC_TLC) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/AutomatidataProjectforNewYorkCityTaxiLimousineCommissionTLC/AutomatidataProjectforTLC)
+		- [Impact of Holidays on Seoul Bike Rentals in 2018](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes/tree/main/Impact_of_Holidays_on_Seoul_Bike_Rentals) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/ImpactofHolidaysonSeoulBikeRentals_17583017751840/Dashboard1)
+		- [Seoul Average Bike Rentals per Hour on Weekdays in 2018](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes/tree/main/Seoul_Average_Bike_Rentals_per_Hour_on_Weekdays) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/SeoulAverageBikeRentalsperHouronWeekdaysin2018_17581423334360/SeoulBikeRentalsperHouronWeekdaysin2018bySeason)
+		- [Lightning Strikes Dashboard](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes/tree/main/Lightning_Strikes_Dashboard) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/LightningStrikesDashboard_17582278020590/Dashboard1)
+		- [Lightning Strikes U.S. Story](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes/tree/main/Lightning_Strikes_US_Story) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/LightningStrikesinU_S_Story/LightningStrikesU_S_Story)
+		- [Number of Lightning Strikes by Location](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes/tree/main/Number_of_Lightning_Strikes_by_Location) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/NumberofLightningStrikesbyLocation/LightningStrikesbyLocation)
+		- [Number of Lightning Strikes](https://github.com/AIDataDr/Tableau-Dashboards-Vizzes/tree/main/Number_of_Lightning_Strikes) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/NumberofLightningStrikes_17581278524150/Sheet23)
 	- [Chili Supper Ticket Sales Dashboard for Local Scout Troop](https://github.com/AIDataDr/Chili-Supper-Ticket-Sales-Dashboard)
 - Machine Learning & Predictive Modeling
 	- [Random Forest Model Predicting Employees Leaving Company](https://github.com/AIDataDr/Random-Forest-Model-Predicting-Employees-Leaving-Company)
