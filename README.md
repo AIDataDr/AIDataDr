@@ -126,7 +126,5 @@ Projects:
 	- [Random Forest Model Predicting Employees Leaving Company](https://github.com/AIDataDr/Random-Forest-Model-Predicting-Employees-Leaving-Company)
 - [RAMDO Solutions](https://github.com/AIDataDr/RAMDO-Solutions)
 
-[Return to Top](#welcome-to-my-portfolio)
-
-[Return to Portfolio Table of Contents](#portfolio-table-of-contents)
-
+#
+[![Home](https://img.shields.io/badge/Back%20to-Home-009911)](#welcome-to-my-portfolio)     [![Portfolio TOC](https://img.shields.io/badge/Back%20to-Portfolio%20TOC-009911)](#portfolio-table-of-contents)
