@@ -5,8 +5,6 @@
 
 This is a little about my personal interests and activities.
 
-[Return to Portfolio Table of Contents](../README.md#portfolio-table-of-contents)
-
 <a id="personal-research-interests"></a>
 ## Personal Research Interests
 - Time series machine learning modeling.
