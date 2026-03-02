@@ -60,20 +60,30 @@ Professional Preparation
 
 Certifications
 <table>
-<tr>
-<td>Google Advanced Data Analytics Certificate<br>
-<a href="https://www.credly.com/badges/a04d89e6-3321-4a08-a1a9-74fc61b34195/public_url">https://www.credly.com/badges/a04d89e6-3321-4a08-a1a9-74fc61b34195/public_url</a>
-</td>
-<td>Dec. 2005</td>
-</tr>
-
-<tr>
-<td>Google Data Analytics Professional Certificate (v2)<br>
-<a href="https://www.credly.com/badges/af056824-0618-47f7-8c41-65e5b20ce29a/public_url">https://www.credly.com/badges/af056824-0618-47f7-8c41-65e5b20ce29a/public_url</a>
-</td>
-<td>Aug. 2005</td>
-</tr>
-
+	<tr>
+		<td>
+			Academy Accreditation - Databricks Fundamentals
+			<br>
+			<a href="https://credentials.databricks.com/678df485-e204-43ae-837d-47a83ff0970d">https://credentials.databricks.com/678df485-e204-43ae-837d-47a83ff0970d</a>
+		</td>
+		<td>Mar. 2026</td>
+	</tr>
+	<tr>
+		<td>
+			Google Advanced Data Analytics Certificate
+			<br>
+			<a href="https://www.credly.com/badges/a04d89e6-3321-4a08-a1a9-74fc61b34195/public_url">https://www.credly.com/badges/a04d89e6-3321-4a08-a1a9-74fc61b34195/public_url</a>
+		</td>
+		<td>Dec. 2025</td>
+	</tr>
+	<tr>
+		<td>
+			Google Data Analytics Professional Certificate (v2)
+			<br>
+			<a href="https://www.credly.com/badges/af056824-0618-47f7-8c41-65e5b20ce29a/public_url">https://www.credly.com/badges/af056824-0618-47f7-8c41-65e5b20ce29a/public_url</a>
+		</td>
+		<td>Aug. 2025</td>
+	</tr>
 </table>
 </details>
 
