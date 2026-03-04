@@ -62,6 +62,14 @@ Certifications
 <table>
 	<tr>
 		<td>
+			Academy Accreditation - Generative AI Fundamentals
+			<br>
+			<a = href="https://credentials.databricks.com/4431187f-82bc-4d2c-b69b-37d13ec4278c">https://credentials.databricks.com/4431187f-82bc-4d2c-b69b-37d13ec4278c</a>
+		</td>
+		<td>Mar. 2026</td>
+	</tr>
+	<tr>
+		<td>
 			Academy Accreditation - Databricks Fundamentals
 			<br>
 			<a href="https://credentials.databricks.com/678df485-e204-43ae-837d-47a83ff0970d">https://credentials.databricks.com/678df485-e204-43ae-837d-47a83ff0970d</a>
