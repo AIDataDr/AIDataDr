@@ -62,6 +62,14 @@ Certifications
 <table>
 	<tr>
 		<td>
+			Knowledge Badge - Get Started with SQL Analytics and BI on Databricks
+			<br>
+			<a = href="https://credentials.databricks.com/5bda49e2-d38e-4ef2-89ef-4f47383dd5b0">https://credentials.databricks.com/5bda49e2-d38e-4ef2-89ef-4f47383dd5b0</a>
+		</td>
+		<td>Mar. 2026</td>
+	</tr>
+	<tr>
+		<td>
 			Academy Accreditation - Generative AI Fundamentals
 			<br>
 			<a = href="https://credentials.databricks.com/4431187f-82bc-4d2c-b69b-37d13ec4278c">https://credentials.databricks.com/4431187f-82bc-4d2c-b69b-37d13ec4278c</a>
