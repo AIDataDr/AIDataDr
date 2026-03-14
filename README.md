@@ -66,6 +66,7 @@ Certifications
 			<br>
 			<a = href="https://credentials.databricks.com/964dc7ac-81fb-4b87-8b64-a00e2046ce9c">https://credentials.databricks.com/964dc7ac-81fb-4b87-8b64-a00e2046ce9c</a>
 		</td>
+		<td>Databricks</td>
 		<td>Mar. 2026</td>
 	</tr>
 	<tr>
@@ -74,6 +75,7 @@ Certifications
 			<br>
 			<a = href="https://credentials.databricks.com/070fae21-c03c-4ce9-9c77-fe847017279c">https://credentials.databricks.com/070fae21-c03c-4ce9-9c77-fe847017279c</a>
 		</td>
+		<td>Databricks</td>
 		<td>Mar. 2026</td>
 	</tr>
 	<tr>
@@ -82,6 +84,7 @@ Certifications
 			<br>
 			<a = href="https://credentials.databricks.com/5bda49e2-d38e-4ef2-89ef-4f47383dd5b0">https://credentials.databricks.com/5bda49e2-d38e-4ef2-89ef-4f47383dd5b0</a>
 		</td>
+		<td>Databricks</td>
 		<td>Mar. 2026</td>
 	</tr>
 	<tr>
@@ -90,6 +93,7 @@ Certifications
 			<br>
 			<a = href="https://credentials.databricks.com/4431187f-82bc-4d2c-b69b-37d13ec4278c">https://credentials.databricks.com/4431187f-82bc-4d2c-b69b-37d13ec4278c</a>
 		</td>
+		<td>Databricks</td>
 		<td>Mar. 2026</td>
 	</tr>
 	<tr>
@@ -98,6 +102,7 @@ Certifications
 			<br>
 			<a href="https://credentials.databricks.com/678df485-e204-43ae-837d-47a83ff0970d">https://credentials.databricks.com/678df485-e204-43ae-837d-47a83ff0970d</a>
 		</td>
+		<td>Databricks</td>
 		<td>Mar. 2026</td>
 	</tr>
 	<tr>
@@ -106,6 +111,7 @@ Certifications
 			<br>
 			<a href="https://www.credly.com/badges/a04d89e6-3321-4a08-a1a9-74fc61b34195/public_url">https://www.credly.com/badges/a04d89e6-3321-4a08-a1a9-74fc61b34195/public_url</a>
 		</td>
+		<td>Google</td>
 		<td>Dec. 2025</td>
 	</tr>
 	<tr>
@@ -114,6 +120,7 @@ Certifications
 			<br>
 			<a href="https://www.credly.com/badges/af056824-0618-47f7-8c41-65e5b20ce29a/public_url">https://www.credly.com/badges/af056824-0618-47f7-8c41-65e5b20ce29a/public_url</a>
 		</td>
+		<td>Google</td>
 		<td>Aug. 2025</td>
 	</tr>
 </table>
