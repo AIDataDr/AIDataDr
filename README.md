@@ -62,6 +62,14 @@ Certifications
 <table>
 	<tr>
 		<td>
+			Knowledge Badge - AI/BI for Data Analysts
+			<br>
+			<a = href="https://credentials.databricks.com/964dc7ac-81fb-4b87-8b64-a00e2046ce9c">https://credentials.databricks.com/964dc7ac-81fb-4b87-8b64-a00e2046ce9c</a>
+		</td>
+		<td>Mar. 2026</td>
+	</tr>
+	<tr>
+		<td>
 			Knowledge Badge - SQL Analytics on Databricks
 			<br>
 			<a = href="https://credentials.databricks.com/070fae21-c03c-4ce9-9c77-fe847017279c">https://credentials.databricks.com/070fae21-c03c-4ce9-9c77-fe847017279c</a>
