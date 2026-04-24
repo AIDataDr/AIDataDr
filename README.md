@@ -126,24 +126,6 @@ Certifications
 </table>
 </details>
 
-<a id="my-next-journey"></a>
-## My Next Journey
-After exiting RAMDO Solutions it took me a bit to come down off the high of building and running a company and to think about what my skill set is, and what I want to do next. I came to the realization that most all the work I did at RAMDO Solutions for almost 11 years was the same kind of work a data scientist does. It turns out I was a data scientist all those years and never knew it. Of course I did a lot of other work, but the work I really enjoyed was the data science related work on solving complex problems, analyzing data, and building predictive models. I have an entrepreneurial spirit. I like to take ownership of my work and am not afraid of working hard and doing what it takes to solve a problem.
-
-I am looking for a data science type of position. Exact titles are not really that important to me. It’s more about the type of work I do. I want to do something I enjoy. I enjoy programming and working with large datasets, analyzing data, and building machine learning models to solve complex problems. I want the work I do to have some kind of impact that helps people in one way or another, whatever that may mean. I am looking forward to the next journey.
-
-I am interested in a lot of different areas, so I am looking for opportunities in a lot of different industries. Some of the areas I am interested in are:
-
-- Medicine
-- Renewable Energy
-- Weather
-- Financial and Insurance Data
-- Risk Management &ndash; Actuary
-- Investing &ndash; Trading &ndash; The Stock Market
-
-If you have any ideas, open positions, are interested in learning more, or would like to discuss please reach out to me on [LinkedIn](https://www.linkedin.com/in/nicholas-gaul-457515a/). Thank you.
-
-
 <a id="portfolio-table-of-contents"></a>
 ## Portfolio Table of Contents
 The table of contents below is to provide a structure to my portfolio to make it easier to find specific types of work. The links will take you directly to the corresponding project repository and directory with its own README file with more details about the project. The projects are grouped by the type of work they correspond to. Some projects are listed more than once because they correspond to multiple categories.
@@ -154,7 +136,6 @@ These sections are about my background and me personally.
 - [About Me](about_me/)
 - [My Background](#my-background)
 - [My Education & Certifications](#my-education-and-certifications)
-- [My Next Journey](#my-next-journey)
 
 Projects:
 
